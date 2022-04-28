@@ -10,7 +10,7 @@ This repository include some notebooks for DPA tutorial.
 ├──── dataset
 |
 ├──── 1_data_io
-|       ├── 1_data_io.tar.gz // {ipynb,html}
+|       ├── 1_data_io.{ipynb,html}
 |       ├── README.md
 |       ├── ...
 |
@@ -20,12 +20,12 @@ This repository include some notebooks for DPA tutorial.
 |       ├── ...
 |
 ├──── 3_dpa_des_sw
-|       ├── 3_dpa_des_sw.tar.gz // {ipynb,html}
+|       ├── 3_dpa_des_sw.{ipynb,html}.tar.gz
 |       ├── README.md
 |       ├── ...
 |
 ├──── 4_dpa_des_hw
-|       ├── 4_dpa_des_hw.tar.gz // {ipynb,html}
+|       ├── 4_dpa_des_hw.{ipynb,html}
 |       ├── README.md
 |       ├── ...
 |
