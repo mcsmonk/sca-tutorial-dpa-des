@@ -15,7 +15,8 @@ This repository include some notebooks for DPA tutorial.
 |       ├── ...
 |
 ├──── 2_dpa_des_simulation
-|       ├── 2_dpa_des_simulation.tar.gz // {ipynb,html}
+|       ├── 2_dpa_des_simulation.ipynb.tar.gz
+|       ├── 2_dpa_des_simulation.html
 |       ├── README.md
 |       ├── ...
 |
